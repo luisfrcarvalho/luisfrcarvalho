@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Talkdesk as a Software Engineer.
+📫 How to reach me: luisfrodriguescarvalho@gmail.com
+
+
+
 <!--
 **luisfrcarvalho/luisfrcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
