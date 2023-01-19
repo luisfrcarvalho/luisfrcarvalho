@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Talkdesk as a Software Engineer.
+
 📫 How to reach me: luisfrodriguescarvalho@gmail.com
 
 
